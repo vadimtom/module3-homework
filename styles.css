@@ -1,0 +1,57 @@
+body {
+    font-family: 'Playfair Display', serif ;
+    color: #626262;
+    font-size: 14px;
+}
+ul {
+    text-align: center;
+}
+li:hover {
+    color: gainsboro;
+}
+li {
+    display: inline;
+    margin: 10px;
+}
+section {
+    width: 960px;
+    height: 500px;
+    margin: auto;
+    padding: 10px;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 410px;
+    height: 350px;
+}
+div {
+    display: inline-block;
+    width: 460px;
+    padding: 6px;
+    margin-bottom: 120px;
+}
+p {
+    text-align: justify;
+    width: 410px;
+    margin-left: 25px;
+}
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
+button {
+    text-align: center;
+    width: 165px;
+    height: 61px;
+    margin-left: 630px;
+    margin-bottom:70px;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif ;
+    background-color: white;
+    border: 1px solid #626262;
+    margin-top: 1430px;
+}
